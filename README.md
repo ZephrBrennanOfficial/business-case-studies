@@ -1,22 +1,22 @@
 # Business Case Studies & Sales Strategy Portfolio
 
-**Author:** Zephr Brennan
-**Role:** Sales Strategist & Commercial Strategy Analyst
-**Location:** Auckland, New Zealand
+**Author:** Zephr Brennan  
+**Role:** Sales Learner & Builder  
+**Location:** Auckland, New Zealand  
 **Contact:** [LinkedIn](https://www.linkedin.com/in/zephr-bren-a50413426) | [GitHub](https://github.com/ZephrBrennanOfficial) | [Twitter/X](https://twitter.com/ZephrBrennan)
 
 ---
 
-> **Work in Progress Notice**
-> *This repository is actively maintained and updated with new quantitative sales diagnostics, market opportunity analyses, and commercial go-to-market frameworks. All models and scenarios are built using real-world SaaS benchmarks, Australasian market data, and rigorous financial logic.*
+> **Learning in Public Notice**  
+> *This repository is actively maintained and updated with quantitative sales diagnostics, market opportunity analyses, and commercial go-to-market frameworks built for practice. All models and scenarios are constructed using real-world SaaS benchmarks, Australasian market data, and rigorous financial logic.*
 
 ---
 
 ## Executive Overview
 
-Welcome to my commercial analysis repository. This collection of case studies demonstrates my approach to solving complex B2B sales challenges, modeling revenue dynamics, and developing actionable growth strategies.
+Welcome to my commercial analysis repository. These case studies are my way of practicing commercial thinking — breaking down real problems, modeling the numbers, and building recommendations.
 
-My work centers on revenue operations, pipeline velocity, cost-of-acquisition optimization, and go-to-market (GTM) execution — specifically within the New Zealand and Trans-Tasman B2B technology ecosystems.
+My work centers on revenue operations, pipeline velocity, cost-of-acquisition optimization, and go-to-market (GTM) execution concepts — specifically within the New Zealand and Trans-Tasman B2B technology ecosystems.
 
 ---
 
@@ -31,7 +31,7 @@ My work centers on revenue operations, pipeline velocity, cost-of-acquisition op
 
 ## Analytical Methodology & Frameworks
 
-Every document in this repository follows a structured, evidence-based methodology designed to deliver consulting-grade insights:
+Every document in this repository follows a structured, evidence-based methodology designed to practice structured problem solving:
 
 ```
   +-------------------+      +-------------------+      +-------------------+      +-------------------+
@@ -43,7 +43,7 @@ Every document in this repository follows a structured, evidence-based methodolo
 - **First-Principles Financial Modeling:** Evaluating sales initiatives based on Net Present Value (NPV), Customer Acquisition Cost (CAC) Payback, Pipeline Velocity, and Lifetime Value (LTV) multiples rather than top-line impressions.
 - **Root-Cause Diagnostic Mapping:** Identifying the underlying operational, structural, or behavioral bottlenecks behind plateaued top-line growth.
 - **Segmented TAM/SAM/SOM Sizing:** Utilizing bottom-up and top-down market sizing techniques grounded in New Zealand tech sector data (e.g., TIN200 reports, Stats NZ enterprise numbers).
-- **Actionable Execution Roadmaps:** Translating high-level strategy into concrete 30-60-90 day implementation schedules with measurable key performance indicators (KPIs).
+- **Actionable Execution Roadmaps:** Translating strategy into concrete 30-60-90 day implementation schedules with measurable key performance indicators (KPIs).
 
 ---
 
@@ -90,6 +90,6 @@ Every document in this repository follows a structured, evidence-based methodolo
 
 All content in this repository is authored by **Zephr Brennan** and is released under the All Rights Reserved license. See [`LICENSE`](./LICENSE) for full terms.
 
-For collaboration, hiring inquiries, or commercial discussions, reach out via [LinkedIn](https://www.linkedin.com/in/zephr-bren-a50413426) or [Twitter/X](https://twitter.com/ZephrBrennan).
+For collaboration, job opportunities, or feedback, reach out via [LinkedIn](https://www.linkedin.com/in/zephr-bren-a50413426), [GitHub](https://github.com/ZephrBrennanOfficial), or [Twitter/X](https://twitter.com/ZephrBrennan).
 
 *Copyright © 2026 Zephr Brennan. All rights reserved.*
